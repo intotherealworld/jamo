@@ -49,3 +49,5 @@
 #### 3. 초성
 초성은 위의 식에 중성, 종성을 대입하면 구할 수 있습니다. 식으로 정리하면 다음과 같습니다.
 > (((순수한글코드 - 종성) / 28) - 중성) / 21 = 초성
+
+JavaScript와 Java 코드가 각각 [jamo.js](https://github.com/intotherealworld/jamo/blob/main/jamo.js)와 [JamoUtils.java](https://github.com/intotherealworld/jamo/blob/main/JamoUtils.java) 파일에 있습니다. 각 파일을 통해 실제 구현 코드를 확인하실 수 있습니다.
